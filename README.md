@@ -99,5 +99,5 @@
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
-⭐️ From [Enock Akpaki](https://github.com/Quananhle) with :sparkling_heart: 
+⭐️ From [Enock Akpaki](https://github.com/aejohn43) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
