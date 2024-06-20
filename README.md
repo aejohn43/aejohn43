@@ -94,9 +94,9 @@
  ---
 ### 📫 Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "aejohn43")]([https://www.linkedin.com/in/quan-le-5932b8160/](https://www.linkedin.com/in/enock-akpaki-05b9102a0/))-->
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="mailto:aenockjohn@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="mailto:aenockjohn@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
 ⭐️ From [Enock Akpaki](https://github.com/aejohn43) with :sparkling_heart: 
