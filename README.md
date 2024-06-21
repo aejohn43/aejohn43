@@ -38,7 +38,7 @@
 
 ---
 ### 👀 Trending repos:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Data-Structure-and-Algorithms&theme=radical "AData-Structure-and-Algorithms")](https://github.com/Quananhle/Data-Structure-and-Algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Data-Structure-and-Algorithms&theme=radical "Tracking expenses API with a minimal front end")](https://github.com/BloomTechBackend/bd-team-project-john)
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) -->
