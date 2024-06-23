@@ -1,21 +1,14 @@
 ## Hello World! 👋
 
-<div align="center">  Welcome to my Github :stack:</div>
+<div align="center">  Welcome to my Github 💻:</div>
 
 ---
-### :volcano: Funny Joke
-
-> "Have you heard about the object-oriented way to become wealthy?"
->> "No..."
->>> "Inheritance!"
-
-> "Why all Pascal programmers ask to live in Atlantis?"
->> "Because it is below C level."
+### 🏗️: I believed that: 
+CODING IS AN ART
 
 ---
-### 💻:keyboard: Languages and Tools 
 
-### I program in <sup>*</sup> 
+### I code in :<sup>*</sup> 
 
   **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
@@ -31,8 +24,8 @@
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
 
 **Version Control:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/aejohn43) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/aejohn43)](https://github.com/aenockjohn43)
 
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
