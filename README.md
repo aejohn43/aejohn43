@@ -15,7 +15,7 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-### In program in <sup>*</sup> 
+### I program in <sup>*</sup> 
 
   **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
