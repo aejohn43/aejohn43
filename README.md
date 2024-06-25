@@ -30,6 +30,7 @@ CODING IS AN ART
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
 ---
+<!--
 ### 👀 Trending repos:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aejohn43&repo=bd-team-project-john&theme=radical "Tracking expenses API with a minimal front end")](https://github.com/aejohn43/bd-team-project-john)
 <!-- ### 🏆 Github Status
