@@ -11,11 +11,11 @@ CODING IS AN ART
 ### I code in :<sup>*</sup> 
 
   **Java**: 
-  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=)]() 
-  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=)]()
-  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=)]()
-  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=)]()
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=)]()
+  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)]() 
+  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring)]()
+  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot)]()
+  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)]()
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json)]()
 
 ### Tools
 
