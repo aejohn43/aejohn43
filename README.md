@@ -20,12 +20,12 @@ CODING IS AN ART
 ### Tools
 
 **Software Development:**
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
+[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=)]()
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=)]()
 
 **Version Control:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/aejohn43) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/aejohn43)](https://github.com/aenockjohn43)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link)]() 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=)]()
 
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
