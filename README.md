@@ -20,14 +20,13 @@ CODING IS AN ART
 ### Tools
 
 **Software Development:**
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=)]()
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white)]()
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)]()
 
 **Version Control:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link)]() 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=)]()
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]() 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]()
 
-<sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
 ---
 <!--
@@ -42,7 +41,7 @@ CODING IS AN ART
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "aejohn43")]([www.linkedin.com/in/enock-akpaki/](https://www.linkedin.com/in/enock-akpaki/))-->
 <a href="www.linkedin.com/in/enock-akpaki"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:aenockjohn@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="mailto:aejohn@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
  
 ⭐️ From [Enock Akpaki](https://github.com/aejohn43) with :sparkling_heart: 
