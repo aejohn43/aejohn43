@@ -35,6 +35,7 @@ CODING IS AN ART
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) 
+[![GitHub Trends SVG](https://api.githubtrends.io/aejohn43/svg/avgupta456/langs)](https://githubtrends.io)
 
  ---
 ### 📫 Get In Touch
