@@ -21,22 +21,21 @@ CODING IS AN ART
 
 **Software Development:**
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white)]()
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)]()
+[![Visual Studio](https://img.shields.io/badge/-red?style=flat&logo=Visual-Studio-Code&logoColor=white)]()
 
 **Version Control:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]() 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]()
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aejohn43/langs)](https://githubtrends.io)
 
 
 ---
 
-<!-### 👀 Trending repos:
+### 👀 Trending repos:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aejohn43&repo=bd-team-project-john&theme=radical "Tracking expenses API with a minimal front end")](https://github.com/aejohn43/bd-team-project-john)
- ### 🏆 Github Status
+<!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) -->
+
  ---
 ### 📫 Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "aejohn43")]([www.linkedin.com/in/enock-akpaki/](https://www.linkedin.com/in/enock-akpaki/))-->
